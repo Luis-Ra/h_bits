@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:h_bits/components/my_frawer.dart';
+import 'package:h_bits/components/my_drawer.dart';
 import 'package:h_bits/components/my_habit_tile.dart';
 import 'package:h_bits/components/my_heat_map.dart';
 import 'package:h_bits/database/habit_database.dart';
